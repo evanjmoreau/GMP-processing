@@ -12,7 +12,7 @@ run_date = datetime.today().strftime("%m%d%y")
 meter_to_project = {
     "6214641"   : "ERE-Olde-Farmhouse-Rd_Solar",
     "E36202156" : "ERE-I-Love-Cows_Solar",
-    "5253372"   : "ERE-Boardman-Hill_Solar",
+    "6205021"   : "ERE-Boardman-Hill_Solar",
     "6046437"   : "ERE-Danyow-Rd_Solar",
     "6214663"   : "ERE-Nava_Storage-PROD",
     "6214676"   : "ERE-Nava_Storage-AUX",
